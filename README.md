@@ -1,6 +1,6 @@
 # dnd-encounter-chain-generation
 Материалы по научно исследовательской работе на тему "Анализ методов и разработка алгоритма процедурной генерации цепочки боевых столкновений для прогнозируемого истощения ресурсов отряда перед финальным боем в ролевых играх по правилам D&amp;D", 
 
-(Гугл-диск со статьями) [https://drive.google.com/drive/folders/1fuyoVEIoFyHql6TpgrGWqCxa2h6uTP52?usp=sharing]
+[Гугл-диск со статьями](https://drive.google.com/drive/folders/1fuyoVEIoFyHql6TpgrGWqCxa2h6uTP52?usp=sharing)
 
 студент: Гончарова Т. Г. 
